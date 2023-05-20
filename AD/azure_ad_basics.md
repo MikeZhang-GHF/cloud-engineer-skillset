@@ -1,4 +1,4 @@
-# xxxx Notes
+# Azure AD Basics Notes
 
 **05/20/2023**
 
